@@ -7,6 +7,10 @@
       padding: 0;
       list-style: none;
     }
+
+    h2 {
+      color: rgb(2, 2, 100);
+    }
     
     h2,
     h3,
@@ -145,6 +149,13 @@
     .banner, img {
       width: 100%
     }
+    .welcome {
+      margin: .5em;
+      text-align: center;
+      font-size: 2rem;
+      color: rgb(0, 0, 99);
+    }
+    
 
     /*A brief description of myself below.*/
     .quickbio {
